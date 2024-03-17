@@ -6,3 +6,6 @@
 4. Now open the A3_DML.sql file, which will populate the table with 3 entries.
 5. locate the A3Q1.py file and run it. ("python A3Q1.py" on a windows terminal in the directory which the file is in)
 6. Follow the instructions of the application.
+
+Demo Video:
+https://youtu.be/MOCu-N9oXbQ
